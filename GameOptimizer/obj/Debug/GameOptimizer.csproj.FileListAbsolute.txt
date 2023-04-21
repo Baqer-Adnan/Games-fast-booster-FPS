@@ -1,0 +1,41 @@
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.Form1.resources
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Properties.Resources.resources
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.exe.config
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.exe
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.pdb
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.exe
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.pdb
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Dados.resources
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Initial.resources
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Optimizer.resources
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.exe.config
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.exe
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.pdb
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.AssemblyReference.cache
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Dados.resources
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.Form1.resources
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Initial.resources
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Optimizer.resources
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Properties.Resources.resources
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.GenerateResource.cache
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.exe
+C:\Users\shhab\OneDrive\Desktop\PCOptimizer-master\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.pdb
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.exe.config
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.exe
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.pdb
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.AssemblyReference.cache
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.SuggestedBindingRedirects.cache
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Dados.resources
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.Form1.resources
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Initial.resources
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Optimizer.resources
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Properties.Resources.resources
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.GenerateResource.cache
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.CoreCompileInputs.cache
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.exe
+D:\Work\TH\Clean PC\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.pdb
